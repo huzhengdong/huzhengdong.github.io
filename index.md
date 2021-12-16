@@ -1,2 +1,0 @@
-## Hu Zhengdong
-## Resume
