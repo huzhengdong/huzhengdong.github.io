@@ -1,6 +1,6 @@
 ## Hu Zhengdong
 
-<img  src="/.png" align='left'/>
+<img  src="/love.jpg" align='left'/>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
