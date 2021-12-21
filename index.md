@@ -1,6 +1,6 @@
 ## Hu Zhengdong
 
-## Education
+### Education
 
 Bachalor Degree: Shanghai Jiao Tong University
 
