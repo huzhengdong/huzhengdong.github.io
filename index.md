@@ -1,5 +1,11 @@
 ## Hu Zhengdong
 
+## Education
+
+Bachalor Degree: Shanghai Jiao Tong University
+
+Major: Electrical and Computer Enginerring
+
 
 
 ### Support or Contact
