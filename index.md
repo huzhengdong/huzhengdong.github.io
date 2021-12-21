@@ -1,7 +1,6 @@
 ## Hu Zhengdong
 
-### Love you three thounsand times
-<img  src="/love.jpg" align='left'/>
+
 
 ### Support or Contact
 
