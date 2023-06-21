@@ -29,4 +29,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Original Writing
 ### Love you three thounsand times
-<img  src="/love.jpg" align='left'/>
+%<img  src="/love.jpg" align='left'/>
